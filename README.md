@@ -5,5 +5,4 @@ My favorite pizza toppings are
 * cheese
 * mushroom
 * pepperoni
-* pineapple
-* chicken
+
